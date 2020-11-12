@@ -34,3 +34,6 @@
 # Vim temp files
 *.swp
 *.swo
+
+# Executable
+lab2
